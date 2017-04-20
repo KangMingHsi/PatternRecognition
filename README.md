@@ -1,2 +1,2 @@
 # PatternRecognition
-Homork
+Homework
